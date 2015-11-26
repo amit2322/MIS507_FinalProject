@@ -76,8 +76,8 @@ public class SplitwiseDemo {
               group.add(userAcct);
         }
        
-        System.out.println("Choose payment mode:\n 1. P for Paypal\n2. V for Venmo\n");
-        selectedPaymentMode = in.nextLine();
+        //System.out.println("Choose payment mode:\n 1. P for Paypal\n2. V for Venmo\n");
+        //selectedPaymentMode = in.nextLine();
 
   /*
     p1 = objDemo.selectPay(selectedPaymentMode.toLowerCase());	
